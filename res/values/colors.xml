@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="button_background_color">#33B5E5</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="activity_background_color">#000000</color>
+    <color name="button_pressed_background_color">#0099CC</color>
+    <color name="transparent_button_color">#00000000</color>
+    <color name="transparent_button_pressed_color">#20FFFFFF</color>
+    
+</resources>
